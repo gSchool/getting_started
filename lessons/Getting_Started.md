@@ -1,3 +1,4 @@
+# Getting Started
 Our software development programs foster the growth of individuals to become software engineers who are ready to succeed as contributing members of a software team or Software Factory. 
 
 Participants learn full stack JavaScript through pair programming and develop several full stack applications in teams. 
