@@ -6,6 +6,7 @@ title: Your First Checkpoint
 ##### !question
 What is the name of Galvanize's markdown support extension in VS Code?
 !end-question
+##### !end-question
 
 ##### !options
 gMark
