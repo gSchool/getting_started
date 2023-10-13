@@ -1,28 +1,12 @@
-# Getting Started
+# We've moved! 
 
-The Galvanize Software Development Immersive is an intensive 12-week* course that will prepare you with critical skills to be a software developer. 
+We have officially transitioned to the FY24 DoD & Federal Agency Software Development Immersive Application. Please note the following: 
 
-We are looking for service-members who enjoy problem-solving and want to take their technical skills to the next level. Although no previous
-experience is required, our entrance assessment will require some basic development skills.
+* In order to be considered for enrollment for a FY24 course, you **must** have an active FY24 application.
+* The Applicant Survey is REQUIRED. You must fill out the survey in the FY24 application in order for our team to support your application and enrollment journey. 
+* **If you have assessed within the last 6 months**, please reach out to our Federal Enrollment team at federal.enrollment@galvnaize.com. We can port your score into the FY24 application.
 
-We strongly recommend you go through the available prep work. The prep work will prepare you with basic development skills needed to pass the assessment and be accepted to the program. Alternatively, if you are already proficient in JavaScript fundamentals you are welcome to take the assessment without doing prep work.
+Our FY24 Software Development Immersive schedule, as well as more information about the course, can be accessed [HERE](https://www.galvanize.com/software-development-immersive/). 
 
-**Note: Course length may range from 12-14 weeks and is dependent on the OPM Federal Holiday schedule. Please check the schedule of upcoming cohorts to confirm class dates.* 
-
-## About this Course
-
-### Course Details
-
-The full-time course runs on a Monday-Friday schedule (0900-1700 CST). The program will be taken entirely online. A schedule of upcoming cohorts can be accessed [here](https://www.galvanize.com/software-development-immersive/).
-
-If you’re interested, please complete the application. Note: our Federal Enrollment team will work with you to confirm or secure funding. You must also ensure approval from your Commander in order to join.
-
-### Course Objective
-
-By the end of this class, you will be able to utilize full stack JavaScript and modern development techniques to contribute as a member of a software team or Software Factory.
-
-#
-
-[Click here](https://www.galvanize.com/software-development-immersive/) to visit our Galvanize website to learn more about the Software Development Immersive Program.
- 
-Click “Next” in the lower right corner to read FAQs not found on the Galvanize website. Pay special attention to application, attendance, and participation requirements. 
+Ready to start your FY24 SDI Application? 
+[Click here](https://auth.galvanize.com/register?uid=3cf4bfed8158d67563).
