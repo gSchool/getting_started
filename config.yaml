@@ -23,9 +23,9 @@
 
 # All UIDs must be unique within a repo. Use `cmd/ctrl+option/alt+u` to generate
 Standards:
-  - Title: We've moved to the FY24 application! 
+  - Title: We've moved!
     UID: 1384e24b-521a-4b49-87e5-de62b0460259
-    Description: Click here for more information on starting your FY24 application. 
+    Description: Click here for more information about starting your FY24 application. 
     SuccessCriteria:
       - Unit has a config.yaml
       - Unit has a lesson
