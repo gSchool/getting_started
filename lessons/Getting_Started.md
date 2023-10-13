@@ -8,5 +8,5 @@ We have officially transitioned to the FY24 DoD & Federal Agency Software Develo
 
 Our FY24 Software Development Immersive schedule, as well as more information about the course, can be accessed [HERE](https://www.galvanize.com/software-development-immersive/). 
 
-Ready to start your FY24 SDI Application? 
-[Click here](https://auth.galvanize.com/register?uid=3cf4bfed8158d67563).
+**Ready to start your FY24 SDI Application? 
+[Click here](https://auth.galvanize.com/register?uid=3cf4bfed8158d67563).**
